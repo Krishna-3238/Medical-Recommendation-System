@@ -14,6 +14,7 @@ A Flask-based web application that provides health recommendations based on user
 ## Project Overview
 
 The Symptom-Based Health Recommendation System allows users to input symptoms and, using machine learning algorithms, predicts possible diseases and provides associated health recommendations. This app is useful for individuals seeking preliminary health insights and suggestions for maintaining or improving their health.
+
 ![Sample Output](https://github.com/Krishna-3238/Medical-Recommendation-System/blob/main/output%201.png)
 ![Sample Output](https://github.com/Krishna-3238/Medical-Recommendation-System/blob/main/output%202.png)
 
